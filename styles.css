@@ -51,6 +51,18 @@ nav a {
     opacity: 0.7;
   }
   
-  #myBtn:hover {
+#myBtn:hover {
     background-color: #f5eeee;
   }
+
+.coffee-images img {
+    width: 19.3%;
+    height: 150px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.home-text {
+    text-align: justify;
+    padding: 50px;
+}
