@@ -93,7 +93,32 @@ th {
     background-color: #f2f2f2;
 }
 
+.about-div {
+    display: flex;
+    width: 100%;
+    height: fit-content;
+    margin-top: 2%;
+    
+}
 
+.about-left-section {
+    width: 70%;
+    height: auto;
+    padding: 100px 100px 50px 100px;
+    text-align: justify;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.about-right-section {
+    width: 100%;
+    height: auto;
+}
+
+.bg-img {
+    width: 100%;
+    height: auto;
+}
 
 footer {
     background-color: #333;
