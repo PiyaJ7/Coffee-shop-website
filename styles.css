@@ -55,6 +55,7 @@ nav a {
     background-color: #f5eeee;
 }
 
+/* Home Page Styles */
 .coffee-images img {
     width: 19.3%;
     height: 150px;
@@ -66,6 +67,8 @@ nav a {
     text-align: justify;
     padding: 50px;
 }
+
+/* Menu Page Styles */
 
 .background-img {
     width: 100%;
@@ -93,6 +96,8 @@ th {
     background-color: #f2f2f2;
 }
 
+/* About Page Styles */
+
 .about-div {
     display: flex;
     width: 100%;
@@ -119,6 +124,61 @@ th {
     width: 100%;
     height: auto;
 }
+
+/* Contact Page Styles */
+
+.contact-container {
+    background-color: #f9f9f9;
+    padding: 3% 10%;
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.form-group input,
+.form-group textarea {
+    padding: 12.8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group textarea {
+    resize: vertical;
+}
+
+.form-group button {
+    margin-top: 50px;
+    background-color: #4e3634;
+    color: #fff;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
+.form-group button:hover {
+    background-color: #582c27;
+    opacity: 0.8;
+}
+
+.form-group button:active {
+    background-color: #29100d;
+}
+
 
 footer {
     background-color: #333;
