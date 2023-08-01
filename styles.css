@@ -36,6 +36,14 @@ nav a {
     text-decoration: none;
 }
 
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 100px;
+}
+
 .text-animation {
     font-size: 3rem;
     color: white;
@@ -183,6 +191,25 @@ th {
 
 .form-group button:active {
     background-color: #29100d;
+}
+
+/* Location Page Styles */
+
+#location {
+    text-align: center;
+}
+
+.location-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.map {
+    margin-bottom: 32px;
+}
+
+.address {
+    font-size: 1.1rem;
 }
 
 
