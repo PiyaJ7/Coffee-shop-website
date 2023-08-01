@@ -1,4 +1,4 @@
-# Coffee-shop-website
+# <i>Coffee-shop-website ☕️</i><br>
 Design a creative and responsive website for Coffee Shop
 
 ## 📷 Project Screenshots
@@ -44,4 +44,4 @@ This project needs a ⭐️ from you. Don't forget to leave a star ⭐️.
 If you found the app helpful consider supporting me with a coffee
 
 
----
+# <br><i>Thank You!✌️</i>
