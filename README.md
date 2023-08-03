@@ -40,8 +40,6 @@ We welcome contributions and feedback to enhance our website design. Feel free t
 
 ## 💖 Like my work?
 
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐️.   
-If you found the app helpful consider supporting me with a coffee
-
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️.
 
 # <br><i>Thank You!✌️</i>
